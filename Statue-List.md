@@ -24,16 +24,21 @@
 - Aedan_Flynn
 - Annovellius
 - Bellanne
+- Ember_Vixa
 - garethb
 - Mystic_Bee
+- Southyman
+- Tuner86
 ----
 ## Diamond Tier
 ----
 - Ashleycloud
+- FireWolf256
 - Glaive_
 - Gooman24
 - JujiWasTaken
 - MaccaroniCheese
+- MagpieTear
 - OhhTheHumanatee
 - Ozphilo
 - RillSoji
