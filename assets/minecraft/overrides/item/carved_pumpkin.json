@@ -1,0 +1,232 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "name": "Foo"
+      },
+      "model": "item/foo"
+    },
+	{
+      "predicate": {
+        "name": "Aankhara Statue \u26051"
+      },
+      "model": "item/aankhara"
+    },
+	{
+      "predicate": {
+        "name": "Aedan_Flynn Statue \u26052"
+      },
+      "model": "item/aedan_flynn"
+    },
+	{
+      "predicate": {
+        "name": "Annovellius Statue \u26052"
+      },
+      "model": "item/annovellius"
+    },
+	{
+      "predicate": {
+        "name": "Ashleycloud Statue \u26053"
+      },
+      "model": "item/ashleycloud"
+    },
+	{
+      "predicate": {
+        "name": "Bellanne Statue \u26052"
+      },
+      "model": "item/bellanne"
+    },
+	{
+      "predicate": {
+        "name": "CallunaBytes Statue \u26051"
+      },
+      "model": "item/callunabytes"
+    },
+	{
+      "predicate": {
+        "name": "DJChaos42 Statue \u26050"
+      },
+      "model": "item/djchaos42"
+    },
+	{
+      "predicate": {
+        "name": "Ember_Vixa Statue \u26052"
+      },
+      "model": "item/ember_vixa"
+    },
+	{
+      "predicate": {
+        "name": "FireWolf256 Statue \u26053"
+      },
+      "model": "item/firewolf256"
+    },
+	{
+      "predicate": {
+        "name": "garethb Statue \u26052"
+      },
+      "model": "item/garethb"
+    },
+	{
+      "predicate": {
+        "name": "Glaive_ Statue \u26053"
+      },
+      "model": "item/glaive_"
+    },
+	{
+      "predicate": {
+        "name": "Gooman24 Statue \u26053"
+      },
+      "model": "item/gooman24"
+    },
+	{
+      "predicate": {
+        "name": "impulseSV Statue \u26054"
+      },
+      "model": "item/impulsesv"
+    },
+	{
+      "predicate": {
+        "name": "IXTHREE Statue \u26051"
+      },
+      "model": "item/ixthree"
+    },
+	{
+      "predicate": {
+        "name": "JujiWasTaken Statue \u26053"
+      },
+      "model": "item/jujiwastaken"
+    },
+	{
+      "predicate": {
+        "name": "KatieTwinkle Statue \u26051"
+      },
+      "model": "item/katietwinkle"
+    },
+	{
+      "predicate": {
+        "name": "Lucianl869 Statue \u26051"
+      },
+      "model": "item/lucianl869"
+    },
+	{
+      "predicate": {
+        "name": "MaccaroniCheese Statue \u26053"
+      },
+      "model": "item/maccaronicheese"
+    },
+	{
+      "predicate": {
+        "name": "MagpieTear Statue \u26053"
+      },
+      "model": "item/magpietear"
+    },
+	{
+      "predicate": {
+        "name": "Muclix Statue \u26051"
+      },
+      "model": "item/muclix"
+    },
+	{
+      "predicate": {
+        "name": "Mystic_Bee Statue \u26052"
+      },
+      "model": "item/mystic_bee"
+    },
+	{
+      "predicate": {
+        "name": "nascargirl4 Statue \u26051"
+      },
+      "model": "item/nascargirl4"
+    },
+	{
+      "predicate": {
+        "name": "OhhTheHuManatee Statue \u26053"
+      },
+      "model": "item/ohhthehumanatee"
+    },
+	{
+      "predicate": {
+        "name": "Ozphilo Statue \u26053"
+      },
+      "model": "item/ozphilo"
+    },
+	{
+      "predicate": {
+        "name": "PixilPrincess Statue \u26051"
+      },
+      "model": "item/pixilprincess"
+    },
+	{
+      "predicate": {
+        "name": "RaeRayKC Statue \u26053"
+      },
+      "model": "item/raeraykc"
+    },
+	{
+      "predicate": {
+        "name": "RillSoji Statue \u26053"
+      },
+      "model": "item/rillsoji"
+    },
+	{
+      "predicate": {
+        "name": "RiverKent Statue \u26051"
+      },
+      "model": "item/riverkent"
+    },
+	{
+      "predicate": {
+        "name": "Siral_Star Statue \u26051"
+      },
+      "model": "item/siral_star"
+    },
+	{
+      "predicate": {
+        "name": "Skizzleman Statue \u26054"
+      },
+      "model": "item/skizzleman"
+    },
+	{
+      "predicate": {
+        "name": "Southyman Statue \u26052"
+      },
+      "model": "item/southyman"
+    },
+	{
+      "predicate": {
+        "name": "Tango Statue \u26054"
+      },
+      "model": "item/tango"
+    },
+	{
+      "predicate": {
+        "name": "Template Statue \u26051"
+      },
+      "model": "item/template"
+    },
+	{
+      "predicate": {
+        "name": "TheGingerHawk Statue \u26051"
+      },
+      "model": "item/thegingerhawk"
+    },
+	{
+      "predicate": {
+        "name": "Tuner86 Statue \u26052"
+      },
+      "model": "item/tuner86"
+    },
+	{
+      "predicate": {
+        "name": "VisualFan327 Statue \u26051"
+      },
+      "model": "item/visualfan327"
+    },
+	{
+      "predicate": {
+        "name": "XxBustyxX Statue \u26051"
+      },
+      "model": "item/xxbustyxx"
+    }
+  ]
+}

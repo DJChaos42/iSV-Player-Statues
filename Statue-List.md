@@ -40,7 +40,7 @@
 - JujiWasTaken
 - MaccaroniCheese
 - MagpieTear
-- OhhTheHumanatee
+- OhhTheHuManatee
 - Ozphilo
 - RillSoji
 ----
