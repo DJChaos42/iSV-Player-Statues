@@ -146,6 +146,12 @@
     },
 	{
       "predicate": {
+        "name": "makeshiftdragon Statue \u26053"
+      },
+      "model": "item/makeshiftdragon"
+    },
+	{
+      "predicate": {
         "name": "MalefiKat Statue \u26051"
       },
       "model": "item/malefikat"
@@ -212,6 +218,12 @@
     },
 	{
       "predicate": {
+        "name": "QueenHera Statue \u26051"
+      },
+      "model": "item/queenhera"
+    },
+	{
+      "predicate": {
         "name": "RaeRayKC Statue \u26051"
       },
       "model": "item/raeraykc"
@@ -272,9 +284,21 @@
     },
 	{
       "predicate": {
+        "name": "TheCarolinaAsh Statue \u26051"
+      },
+      "model": "item/thecarolinaash"
+    },
+	{
+      "predicate": {
         "name": "TheGingerHawk Statue \u26051"
       },
       "model": "item/thegingerhawk"
+    },
+	{
+      "predicate": {
+        "name": "thelilredpanda Statue \u26051"
+      },
+      "model": "item/thelilredpanda"
     },
 	{
       "predicate": {
@@ -293,6 +317,12 @@
         "name": "VisualFan327 Statue \u26051"
       },
       "model": "item/visualfan327"
+    },
+	{
+      "predicate": {
+        "name": "VonWolfiestein Statue \u26051"
+      },
+      "model": "item/vonwolfiestein"
     },
 	{
       "predicate": {

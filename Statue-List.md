@@ -15,15 +15,20 @@
 - MalefiKat
 - Mathmic
 - Muclix
-- nascargirl4
 - Nightshae
 - PixilPrincess
+- QueenHera
 - RaeRayKC
 - RiverKent
 - Siral_Star
+- TheCarolinaAsh
 - TheGingerHawk
 - VisualFan327
+- VonWolfiestein
 - XxBustyxX
+- makeshiftdragon
+- nascargirl4
+- thelilredpanda
 ----
 ## Gold Tier
 ----
