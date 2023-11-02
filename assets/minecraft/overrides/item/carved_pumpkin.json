@@ -32,6 +32,12 @@
     },
 	{
       "predicate": {
+        "name": "AvidYt Statue \u26052"
+      },
+      "model": "item/avidyt"
+    },
+	{
+      "predicate": {
         "name": "Bellanne Statue \u26052"
       },
       "model": "item/bellanne"
@@ -62,9 +68,21 @@
     },
 	{
       "predicate": {
+        "name": "FobBob Statue \u26051"
+      },
+      "model": "item/fobbob"
+    },
+	{
+      "predicate": {
         "name": "garethb Statue \u26052"
       },
       "model": "item/garethb"
+    },
+	{
+      "predicate": {
+        "name": "GeminiTay Statue \u26054"
+      },
+      "model": "item/geminitay"
     },
 	{
       "predicate": {
@@ -89,6 +107,12 @@
         "name": "IXTHREE Statue \u26051"
       },
       "model": "item/ixthree"
+    },
+	{
+      "predicate": {
+        "name": "Jademelodyca Statue \u26053"
+      },
+      "model": "item/jademelodyca"
     },
 	{
       "predicate": {
@@ -122,6 +146,24 @@
     },
 	{
       "predicate": {
+        "name": "MalefiKat Statue \u26051"
+      },
+      "model": "item/malefikat"
+    },
+	{
+      "predicate": {
+        "name": "Mathmic Statue \u26051"
+      },
+      "model": "item/mathmic"
+    },
+	{
+      "predicate": {
+        "name": "MrSturm Statue \u26052"
+      },
+      "model": "item/mrsturm"
+    },
+	{
+      "predicate": {
         "name": "Muclix Statue \u26051"
       },
       "model": "item/muclix"
@@ -137,6 +179,18 @@
         "name": "nascargirl4 Statue \u26051"
       },
       "model": "item/nascargirl4"
+    },
+	{
+      "predicate": {
+        "name": "Nightshae Statue \u26051"
+      },
+      "model": "item/nightshae"
+    },
+	{
+      "predicate": {
+        "name": "NotSoRandom Statue \u26052"
+      },
+      "model": "item/notsorandom"
     },
 	{
       "predicate": {
@@ -158,9 +212,15 @@
     },
 	{
       "predicate": {
-        "name": "RaeRayKC Statue \u26053"
+        "name": "RaeRayKC Statue \u26051"
       },
       "model": "item/raeraykc"
+    },
+	{
+      "predicate": {
+        "name": "razzlemcfrazzle Statue \u26052"
+      },
+      "model": "item/razzlemcfrazzle"
     },
 	{
       "predicate": {
@@ -173,6 +233,12 @@
         "name": "RiverKent Statue \u26051"
       },
       "model": "item/riverkent"
+    },
+	{
+      "predicate": {
+        "name": "SammyTerry241 Statue \u26052"
+      },
+      "model": "item/sammyterry241"
     },
 	{
       "predicate": {
@@ -209,6 +275,12 @@
         "name": "TheGingerHawk Statue \u26051"
       },
       "model": "item/thegingerhawk"
+    },
+	{
+      "predicate": {
+        "name": "TiltControlsABK Statue \u26052"
+      },
+      "model": "item/tiltcontrolsabk"
     },
 	{
       "predicate": {
