@@ -1,7 +1,14 @@
 {
   "pack": {
     "pack_format": 15,
-		"supported_formats": [15, 18],
-    "description": "iSV Statues"
+    "supported_formats": [
+      15,
+      18
+    ],
+    "description": {
+      "translate": "resourcePack.isv_statues.description",
+      "fallback": "iSV Statues",
+      "color": "yellow"
+    }
   }
 }

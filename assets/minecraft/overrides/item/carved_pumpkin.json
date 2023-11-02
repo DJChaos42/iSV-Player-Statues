@@ -2,9 +2,15 @@
   "overrides": [
     {
       "predicate": {
-        "name": "Foo"
+        "name": "\u2605Player Statues\u2605"
       },
-      "model": "item/foo"
+      "model": "item/player"
+    },
+	{
+      "predicate": {
+        "name": "Template Statue \u26051"
+      },
+      "model": "item/template"
     },
 	{
       "predicate": {
@@ -275,12 +281,6 @@
         "name": "Tango Statue \u26054"
       },
       "model": "item/tango"
-    },
-	{
-      "predicate": {
-        "name": "Template Statue \u26051"
-      },
-      "model": "item/template"
     },
 	{
       "predicate": {
