@@ -1,6 +1,8 @@
 # iSV-Player-Statues
 A resource pack which adds statues based on the members of impulseSV's fan server SMP.
 
+**Download the latest release [here](https://github.com/DJChaos42/iSV-Player-Statues/releases/download/1.0.1/iSV-Player-Statues-1.20.x-1.0.1.zip)**
+
 ## Notes:
 - The statues require either Optifine, CIT Resewn, or Chime in order to display properly.
 - If you use the MoreCulling mod, disable the Custom Item Frame Renderer or statues in item frames won't be displayed.
