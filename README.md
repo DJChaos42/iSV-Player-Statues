@@ -3,6 +3,14 @@ A resource pack which adds statues based on the members of impulseSV's fan serve
 
 **Download the latest release [here](https://github.com/DJChaos42/iSV-Player-Statues/releases/download/1.0.2/iSV-Player-Statues-1.20.x-1.0.2.zip)**
 
+
+## Notes:
+- The statues require either Optifine, CIT Resewn, or Chime in order to display properly.
+- **If you use the MoreCulling mod, disable the Custom Item Frame Renderer or statues in item frames won't be displayed.**
+- The pack removes the carved pumpkin overlay for optimal comfort in case you choose to wear a statue on your head.
+- The statues can't be placed down normally, as CIT and Chime do not support adding block models. Instead, you can place them in item frames for a similar effect.
+  - **iSV SMP members:** Check the **Server-Side Plugins and Datapacks** section of the iSV server rule book for info on making item frames invisible.
+
 # iSV FAQ
 **Q1:** How do I download the pack?
 
@@ -42,10 +50,3 @@ A resource pack which adds statues based on the members of impulseSV's fan serve
 **Q9:** Can you add me to the pack?
 
 **A9:** Outside of a few exceptions, only members of the iSV server will be added to the pack. If you are already a member of the server, you can make a request in the _iSV Statue Resource Pack Project_ channel of the iSV Discord to be added to the pack.
-
-## Notes:
-- The statues require either Optifine, CIT Resewn, or Chime in order to display properly.
-- **If you use the MoreCulling mod, disable the Custom Item Frame Renderer or statues in item frames won't be displayed.**
-- The pack removes the carved pumpkin overlay for optimal comfort in case you choose to wear a statue on your head.
-- The statues can't be placed down normally, as CIT and Chime do not support adding block models. Instead, you can place them in item frames for a similar effect.
-  - **iSV SMP members:** Check the **Server-Side Plugins and Datapacks** section of the iSV server rule book for info on making item frames invisible.
