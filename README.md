@@ -1,7 +1,7 @@
 # iSV-Player-Statues
 A resource pack which adds statues based on the members of impulseSV's fan server SMP.
 
-**Download the latest release [here](https://github.com/DJChaos42/iSV-Player-Statues/releases/download/1.0.2/iSV-Player-Statues-1.20.x-1.0.2.zip)**
+**Download the latest release [here]([https://github.com/DJChaos42/iSV-Player-Statues/releases/download/1.0.2/iSV-Player-Statues-1.20.x-1.0.2.zip](https://github.com/DJChaos42/iSV-Player-Statues/releases/download/1.0.3/iSV-Player-Statues-1.20.x-1.0.3.zip))**
 
 
 ## Notes:
