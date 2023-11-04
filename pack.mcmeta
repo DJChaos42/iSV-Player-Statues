@@ -5,10 +5,23 @@
       15,
       18
     ],
-    "description": {
-      "translate": "resourcePack.isv_statues.description",
-      "fallback": "iSV Statues",
-      "color": "yellow"
-    }
+    "description": [
+      {
+        "translate": "resourcePack.isv_statues.description",
+        "fallback": "Enables custom iSV statues.\n§8By"
+      },
+      {
+        "text": " DJChaos42",
+        "color": "dark_purple"
+      },
+      {
+        "text": " | ",
+        "color": "dark_gray"
+      },
+      {
+        "text": "v1.0.4",
+        "color": "yellow"
+      }
+    ]
   }
 }
