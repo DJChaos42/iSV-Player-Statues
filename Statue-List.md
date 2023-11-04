@@ -7,20 +7,26 @@
 ## Iron Tier
 ----
 - Aankhara
+- AccursedBinkie
 - CallunaBytes
 - FobBob
 - IXTHREE
 - KatieTwinkle
 - Lucianl869
+- LykunGG
 - MalefiKat
 - Mathmic
 - Muclix
 - Nightshae
+- Nyte_Twait
 - PixilPrincess
 - QueenHera
 - RaeRayKC
 - RiverKent
+- RoyalRenegade
+- SadieLike
 - Siral_Star
+- Squeeks_Twait
 - TheCarolinaAsh
 - TheGingerHawk
 - VisualFan327
@@ -38,6 +44,9 @@
 - Bellanne
 - Ember_Vixa
 - garethb
+- Hallsworth_
+- MindinRuin
+- MinhGettsit
 - MrSturm
 - Mystic_Bee
 - NotSoRandom
@@ -46,15 +55,18 @@
 - Southyman
 - TiltControlsABK
 - Tuner86
+- Wandering922
 ----
 ## Diamond Tier
 ----
 - Ashleycloud
+- Featherstone777
 - FireWolf256
 - Glaive_
 - Gooman24
 - Jademelodyca
 - JujiWasTaken
+- LegionSciFi
 - MaccaroniCheese
 - MagpieTear
 - OhhTheHuManatee
@@ -65,6 +77,7 @@
 ----
 - GeminiTay
 - impulseSV
+- PearlescentMoon
 - Skizzleman
 - Tango
 ----

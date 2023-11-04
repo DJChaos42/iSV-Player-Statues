@@ -3,7 +3,7 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "block/iron_block",
-		"1": "item/template",
+		"1": "item/sadielike",
 		"particle": "block/iron_block"
 	},
 	"elements": [
@@ -75,7 +75,7 @@
 		{
 			"name": "Right Arm",
 			"from": [10, 7, 7],
-			"to": [12, 13, 9],
+			"to": [11.75, 13, 9],
 			"faces": {
 				"north": {"uv": [11, 5, 11.75, 8], "texture": "#1"},
 				"east": {"uv": [10, 5, 11, 8], "texture": "#1"},
@@ -88,7 +88,7 @@
 		{
 			"name": "Right Arm Layer",
 			"from": [10, 7, 7],
-			"to": [12, 13, 9],
+			"to": [11.75, 13, 9],
 			"faces": {
 				"north": {"uv": [11, 9, 11.75, 12], "texture": "#1"},
 				"east": {"uv": [10, 9, 11, 12], "texture": "#1"},
@@ -100,7 +100,7 @@
 		},
 		{
 			"name": "Left Arm",
-			"from": [4, 7, 7],
+			"from": [4.25, 7, 7],
 			"to": [6, 13, 9],
 			"faces": {
 				"north": {"uv": [9, 13, 9.75, 16], "texture": "#1"},
@@ -113,7 +113,7 @@
 		},
 		{
 			"name": "Left Arm Layer",
-			"from": [4, 7, 7],
+			"from": [4.25, 7, 7],
 			"to": [6, 13, 9],
 			"faces": {
 				"north": {"uv": [13, 13, 13.75, 16], "texture": "#1"},
