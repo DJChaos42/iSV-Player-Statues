@@ -14,9 +14,11 @@
 - KatieTwinkle
 - Lucianl869
 - LykunGG
+- makeshiftdragon
 - MalefiKat
 - Mathmic
 - Muclix
+- nascargirl4
 - Nightshae
 - Nyte_Twait
 - PixilPrincess
@@ -29,12 +31,10 @@
 - Squeeks_Twait
 - TheCarolinaAsh
 - TheGingerHawk
+- thelilredpanda
 - VisualFan327
 - VonWolfiestein
 - XxBustyxX
-- makeshiftdragon
-- nascargirl4
-- thelilredpanda
 ----
 ## Gold Tier
 ----
