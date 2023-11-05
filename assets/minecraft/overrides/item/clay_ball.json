@@ -1,0 +1,10 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "name": "\u24D8Cons Statue Token"
+      },
+      "model": "item/statue_token"
+    }
+  ]
+}
