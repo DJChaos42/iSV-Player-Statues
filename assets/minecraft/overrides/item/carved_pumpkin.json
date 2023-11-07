@@ -16,13 +16,13 @@
       "predicate": {
         "name": "Aankhara Statue \u26051"
       },
-      "model": "item/aankhara"
+      "model": "item/statues/iron/aankhara"
     },
 	{
       "predicate": {
         "name": "AccursedBinkie Statue \u26051"
       },
-      "model": "item/accursedbinkie"
+      "model": "item/statues/iron/accursedbinkie"
     },
 	{
       "predicate": {
@@ -58,7 +58,7 @@
       "predicate": {
         "name": "CallunaBytes Statue \u26051"
       },
-      "model": "item/callunabytes"
+      "model": "item/statues/iron/callunabytes"
     },
 	{
       "predicate": {
@@ -71,6 +71,12 @@
         "name": "Ember_Vixa Statue \u26052"
       },
       "model": "item/ember_vixa"
+    },
+	{
+      "predicate": {
+        "name": "Etho Statue \u26054"
+      },
+      "model": "item/statues/netherite/etho"
     },
 	{
       "predicate": {
@@ -88,7 +94,7 @@
       "predicate": {
         "name": "FobBob Statue \u26051"
       },
-      "model": "item/fobbob"
+      "model": "item/statues/iron/fobbob"
     },
 	{
       "predicate": {
@@ -100,7 +106,7 @@
       "predicate": {
         "name": "GeminiTay Statue \u26054"
       },
-      "model": "item/geminitay"
+      "model": "item/slim/geminitay"
     },
 	{
       "predicate": {
@@ -128,9 +134,21 @@
     },
 	{
       "predicate": {
+        "name": "impulseSV S9 Statue \u26054"
+      },
+      "model": "item/alts/impulsesv_1"
+    },
+	{
+      "predicate": {
+        "name": "impulseSantaV Statue \u26054"
+      },
+      "model": "item/alts/impulsesv_2"
+    },
+	{
+      "predicate": {
         "name": "IXTHREE Statue \u26051"
       },
-      "model": "item/ixthree"
+      "model": "item/statues/iron/ixthree"
     },
 	{
       "predicate": {
@@ -148,7 +166,7 @@
       "predicate": {
         "name": "KatieTwinkle Statue \u26051"
       },
-      "model": "item/katietwinkle"
+      "model": "item/statues/iron/katietwinkle"
     },
 	{
       "predicate": {
@@ -160,7 +178,7 @@
       "predicate": {
         "name": "Lucianl869 Statue \u26051"
       },
-      "model": "item/lucianl869"
+      "model": "item/statues/iron/lucianl869"
     },
 	{
       "predicate": {
@@ -184,19 +202,19 @@
       "predicate": {
         "name": "makeshiftdragon Statue \u26053"
       },
-      "model": "item/makeshiftdragon"
+      "model": "item/statues/iron/makeshiftdragon"
     },
 	{
       "predicate": {
         "name": "MalefiKat Statue \u26051"
       },
-      "model": "item/malefikat"
+      "model": "item/statues/iron/malefikat"
     },
 	{
       "predicate": {
         "name": "Mathmic Statue \u26051"
       },
-      "model": "item/mathmic"
+      "model": "item/statues/iron/mathmic"
     },
 	{
       "predicate": {
@@ -220,7 +238,7 @@
       "predicate": {
         "name": "Muclix Statue \u26051"
       },
-      "model": "item/muclix"
+      "model": "item/statues/iron/muclix"
     },
 	{
       "predicate": {
@@ -232,13 +250,13 @@
       "predicate": {
         "name": "nascargirl4 Statue \u26051"
       },
-      "model": "item/nascargirl4"
+      "model": "item/statues/iron/nascargirl4"
     },
 	{
       "predicate": {
         "name": "Nightshae Statue \u26051"
       },
-      "model": "item/nightshae"
+      "model": "item/statues/iron/nightshae"
     },
 	{
       "predicate": {
@@ -250,7 +268,7 @@
       "predicate": {
         "name": "Nyte_Twait Statue \u26051"
       },
-      "model": "item/nyte_twait"
+      "model": "item/statues/iron/nyte_twait"
     },
 	{
       "predicate": {
@@ -262,7 +280,7 @@
       "predicate": {
         "name": "PearlescentMoon Statue \u26054"
       },
-      "model": "item/pearlescentmoon"
+      "model": "item/slim/pearlescentmoon"
     },
 	{
       "predicate": {
@@ -274,19 +292,19 @@
       "predicate": {
         "name": "PixilPrincess Statue \u26051"
       },
-      "model": "item/pixilprincess"
+      "model": "item/statues/iron/pixilprincess"
     },
 	{
       "predicate": {
         "name": "QueenHera Statue \u26051"
       },
-      "model": "item/queenhera"
+      "model": "item/statues/iron/queenhera"
     },
 	{
       "predicate": {
         "name": "RaeRayKC Statue \u26051"
       },
-      "model": "item/raeraykc"
+      "model": "item/statues/iron/raeraykc"
     },
 	{
       "predicate": {
@@ -304,13 +322,13 @@
       "predicate": {
         "name": "RiverKent Statue \u26051"
       },
-      "model": "item/riverkent"
+      "model": "item/statues/iron/riverkent"
     },
 	{
       "predicate": {
         "name": "RoyalRenegade Statue \u26051"
       },
-      "model": "item/royalrenegade"
+      "model": "item/statues/iron/royalrenegade"
     },
 	{
       "predicate": {
@@ -328,7 +346,7 @@
       "predicate": {
         "name": "Siral_Star Statue \u26051"
       },
-      "model": "item/siral_star"
+      "model": "item/statues/iron/siral_star"
     },
 	{
       "predicate": {
@@ -346,7 +364,7 @@
       "predicate": {
         "name": "Squeeks_Twait Statue \u26051"
       },
-      "model": "item/squeeks_twait"
+      "model": "item/statues/iron/squeeks_twait"
     },
 	{
       "predicate": {
@@ -356,21 +374,27 @@
     },
 	{
       "predicate": {
+        "name": "Tango S9 Statue \u26054"
+      },
+      "model": "item/alts/tango_1"
+    },
+	{
+      "predicate": {
         "name": "TheCarolinaAsh Statue \u26051"
       },
-      "model": "item/thecarolinaash"
+      "model": "item/statues/iron/thecarolinaash"
     },
 	{
       "predicate": {
         "name": "TheGingerHawk Statue \u26051"
       },
-      "model": "item/thegingerhawk"
+      "model": "item/statues/iron/thegingerhawk"
     },
 	{
       "predicate": {
         "name": "thelilredpanda Statue \u26051"
       },
-      "model": "item/thelilredpanda"
+      "model": "item/statues/iron/thelilredpanda"
     },
 	{
       "predicate": {
@@ -388,13 +412,13 @@
       "predicate": {
         "name": "VisualFan327 Statue \u26051"
       },
-      "model": "item/visualfan327"
+      "model": "item/statues/iron/visualfan327"
     },
 	{
       "predicate": {
         "name": "VonWolfiestein Statue \u26051"
       },
-      "model": "item/vonwolfiestein"
+      "model": "item/statues/iron/vonwolfiestein"
     },
 	{
       "predicate": {
@@ -406,7 +430,7 @@
       "predicate": {
         "name": "XxBustyxX Statue \u26051"
       },
-      "model": "item/xxbustyxx"
+      "model": "item/statues/iron/xxbustyxx"
     }
   ]
 }

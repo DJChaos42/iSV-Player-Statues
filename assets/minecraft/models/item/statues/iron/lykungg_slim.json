@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/emerald_block",
-		"1": "item/statues/netherite/impulsesv",
-		"particle": "block/emerald_block"
+		"0": "block/iron_block",
+		"1": "item/statues/iron/lykungg_slim",
+		"particle": "block/iron_block"
 	},
 	"elements": [
 		{
@@ -75,53 +75,53 @@
 		{
 			"name": "Right Arm",
 			"from": [10, 7, 7],
-			"to": [12, 13, 9],
+			"to": [11.75, 13, 9],
 			"faces": {
-				"north": {"uv": [11, 5, 12, 8], "texture": "#1"},
+				"north": {"uv": [11, 5, 11.75, 8], "texture": "#1"},
 				"east": {"uv": [10, 5, 11, 8], "texture": "#1"},
-				"south": {"uv": [13, 5, 14, 8], "texture": "#1"},
-				"west": {"uv": [12, 5, 13, 8], "texture": "#1"},
-				"up": {"uv": [12, 5, 11, 4], "texture": "#1"},
-				"down": {"uv": [13, 4, 12, 5], "texture": "#1"}
+				"south": {"uv": [12.75, 5, 13.5, 8], "texture": "#1"},
+				"west": {"uv": [11.75, 5, 12.75, 8], "texture": "#1"},
+				"up": {"uv": [11.75, 5, 11, 4], "texture": "#1"},
+				"down": {"uv": [12.5, 4, 11.75, 5], "texture": "#1"}
 			}
 		},
 		{
 			"name": "Right Arm Layer",
 			"from": [10, 7, 7],
-			"to": [12, 13, 9],
+			"to": [11.75, 13, 9],
 			"faces": {
-				"north": {"uv": [11, 9, 12, 12], "texture": "#1"},
+				"north": {"uv": [11, 9, 11.75, 12], "texture": "#1"},
 				"east": {"uv": [10, 9, 11, 12], "texture": "#1"},
-				"south": {"uv": [13, 9, 14, 12], "texture": "#1"},
-				"west": {"uv": [12, 9, 13, 12], "texture": "#1"},
-				"up": {"uv": [12, 9, 11, 8], "texture": "#1"},
-				"down": {"uv": [13, 8, 12, 9], "texture": "#1"}
+				"south": {"uv": [12.75, 9, 13.5, 12], "texture": "#1"},
+				"west": {"uv": [11.75, 9, 12.75, 12], "texture": "#1"},
+				"up": {"uv": [11.75, 9, 11, 8], "texture": "#1"},
+				"down": {"uv": [12.5, 8, 11.75, 9], "texture": "#1"}
 			}
 		},
 		{
 			"name": "Left Arm",
-			"from": [4, 7, 7],
+			"from": [4.25, 7, 7],
 			"to": [6, 13, 9],
 			"faces": {
-				"north": {"uv": [9, 13, 10, 16], "texture": "#1"},
+				"north": {"uv": [9, 13, 9.75, 16], "texture": "#1"},
 				"east": {"uv": [8, 13, 9, 16], "texture": "#1"},
-				"south": {"uv": [11, 13, 12, 16], "texture": "#1"},
-				"west": {"uv": [10, 13, 11, 16], "texture": "#1"},
-				"up": {"uv": [10, 13, 9, 12], "texture": "#1"},
-				"down": {"uv": [11, 12, 10, 13], "texture": "#1"}
+				"south": {"uv": [10.75, 13, 11.5, 16], "texture": "#1"},
+				"west": {"uv": [9.75, 13, 10.75, 16], "texture": "#1"},
+				"up": {"uv": [9.75, 13, 9, 12], "texture": "#1"},
+				"down": {"uv": [10.5, 12, 9.75, 13], "texture": "#1"}
 			}
 		},
 		{
 			"name": "Left Arm Layer",
-			"from": [4, 7, 7],
+			"from": [4.25, 7, 7],
 			"to": [6, 13, 9],
 			"faces": {
-				"north": {"uv": [13, 13, 14, 16], "texture": "#1"},
+				"north": {"uv": [13, 13, 13.75, 16], "texture": "#1"},
 				"east": {"uv": [12, 13, 13, 16], "texture": "#1"},
-				"south": {"uv": [15, 13, 16, 16], "texture": "#1"},
-				"west": {"uv": [14, 13, 15, 16], "texture": "#1"},
-				"up": {"uv": [14, 13, 13, 12], "texture": "#1"},
-				"down": {"uv": [15, 12, 14, 13], "texture": "#1"}
+				"south": {"uv": [14.75, 13, 15.5, 16], "texture": "#1"},
+				"west": {"uv": [13.75, 13, 14.75, 16], "texture": "#1"},
+				"up": {"uv": [13.75, 13, 13, 12], "texture": "#1"},
+				"down": {"uv": [14.5, 12, 13.75, 13], "texture": "#1"}
 			}
 		},
 		{

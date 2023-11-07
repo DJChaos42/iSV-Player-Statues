@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/emerald_block",
-		"1": "item/statues/netherite/impulsesv",
-		"particle": "block/emerald_block"
+		"0": "block/diamond_block",
+		"1": "item/statues/diamond/legionscifi",
+		"particle": "block/diamond_block"
 	},
 	"elements": [
 		{
