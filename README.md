@@ -1,6 +1,8 @@
 # iSV Player Statues
 A resource pack which adds statues based on the members of impulseSV's fan server SMP.
 
+[Statue Application Form](https://forms.gle/nZpefRkMzJ3SDh2u5)
+
 ## Notes:
 - The statues require either Optifine, CIT Resewn, or Chime in order to display properly.
 - **If you use the MoreCulling mod, disable the Custom Item Frame Renderer or statues in item frames won't be displayed.**
@@ -46,4 +48,4 @@ A resource pack which adds statues based on the members of impulseSV's fan serve
 
 **Q9:** Can you add me to the pack?
 
-**A9:** Outside of a few exceptions, only members of the iSV server will be added to the pack. If you are already a member of the server, you can make a request in the _iSV Statue Resource Pack Project_ channel of the iSV Discord to be added to the pack.
+**A9:** Outside of a few exceptions, only members of the iSV server will be added to the pack. If you are already a member of the server, you can fill out the [Statue Application Form](https://forms.gle/nZpefRkMzJ3SDh2u5) to have a statue added to the resource pack.
