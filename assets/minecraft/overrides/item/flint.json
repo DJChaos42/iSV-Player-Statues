@@ -2,7 +2,7 @@
   "overrides": [
     {
       "predicate": {
-        "name": "\u24D8Cons Statue Token"
+        "name": "/(\u00a7e\u24D8Cons\u00a7r|\u24D8Cons) Statue Token$/"
       },
       "model": "item/statue_token"
     }

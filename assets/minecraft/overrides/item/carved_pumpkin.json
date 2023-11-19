@@ -8,57 +8,69 @@
     },
 	{
       "predicate": {
-        "name": "Template Statue \u26051"
+        "name": "/(Template|Test) Statue (\u00a76\u26051|\u26051)$/"
       },
       "model": "item/template"
     },
 	{
       "predicate": {
-        "name": "Aankhara Statue \u26051"
+        "name": "/Aankhara Statue (\u00a77\u26051|\u26051)$/"
       },
       "model": "item/statues/iron/aankhara"
     },
 	{
       "predicate": {
-        "name": "AccursedBinkie Statue \u26051"
+        "name": "/AccursedBinkie Statue (\u00a77\u26051|\u26051)$/"
       },
       "model": "item/statues/iron/accursedbinkie"
     },
 	{
       "predicate": {
-        "name": "Aedan_Flynn Statue \u26052"
+        "name": "/Aedan_Flynn Statue (\u00a76\u26052|\u26052)$/"
       },
-      "model": "item/aedan_flynn"
+      "model": "item/statues/gold/aedan_flynn"
     },
 	{
       "predicate": {
-        "name": "Annovellius Statue \u26052"
+        "name": "/Annovellius Statue (\u00a76\u26052|\u26052)$/"
       },
-      "model": "item/annovellius"
+      "model": "item/statues/gold/annovellius"
     },
 	{
       "predicate": {
-        "name": "Ashleycloud Statue \u26053"
+        "name": "/Ashleycloud Statue (\u00a7b\u26053|\u26053)$/"
       },
-      "model": "item/ashleycloud"
+      "model": "item/statues/diamond/ashleycloud"
     },
 	{
       "predicate": {
-        "name": "AvidYt Statue \u26052"
+        "name": "/AvidYt Statue (\u00a76\u26052|\u26052)$/"
       },
-      "model": "item/avidyt"
+      "model": "item/statues/gold/avidyt"
     },
 	{
       "predicate": {
-        "name": "Bellanne Statue \u26052"
+        "name": "/Bellanne Statue (\u00a76\u26052|\u26052)$/"
       },
-      "model": "item/bellanne"
+      "model": "item/statues/gold/bellanne"
     },
 	{
       "predicate": {
-        "name": "CallunaBytes Statue \u26051"
+        "name": "/Bug_BBQ Statue (\u00a76\u26052|\u26052)$/"
+      },
+      "model": "item/statues/gold/bug_bbq_slim"
+    },
+	{
+      "predicate": {
+        "name": "/CallunaBytes Statue (\u00a77\u26051|\u26051)$/"
       },
       "model": "item/statues/iron/callunabytes"
+    },
+	{
+      "predicate": {
+        "name": "/clasik66 Statue (\u00a77\u26051|\u26051)$/"
+      },
+      "model": "item/statues/iron/clasik66"
     },
 	{
       "predicate": {
@@ -68,367 +80,481 @@
     },
 	{
       "predicate": {
-        "name": "Ember_Vixa Statue \u26052"
+        "name": "/Ember_Vixa Statue (\u00a76\u26052|\u26052)$/"
       },
-      "model": "item/ember_vixa"
+      "model": "item/statues/gold/ember_vixa"
+    },
+    {
+      "predicate": {
+        "name": "/EmmyLuvsBats Statue (\u00a77\u26051|\u26051)$/"
+      },
+      "model": "item/statues/iron/emmyluvsbats_slim"
     },
 	{
       "predicate": {
-        "name": "Etho Statue \u26054"
+        "name": "/Etho Statue (\u00a78\u26054|\u26054)$/"
       },
       "model": "item/statues/netherite/etho"
     },
 	{
       "predicate": {
-        "name": "Featherstone777 Statue \u26053"
+        "name": "/Featherstone777 Statue (\u00a7b\u26053|\u26053)$/"
       },
-      "model": "item/featherstone777"
+      "model": "item/statues/diamond/featherstone777"
     },
 	{
       "predicate": {
-        "name": "FireWolf256 Statue \u26053"
+        "name": "/FireWolf256 Statue (\u00a7b\u26053|\u26053)$/"
       },
-      "model": "item/firewolf256"
+      "model": "item/statues/diamond/firewolf256"
     },
 	{
       "predicate": {
-        "name": "FobBob Statue \u26051"
+        "name": "/FobBob Statue (\u00a77\u26051|\u26051)$/"
       },
       "model": "item/statues/iron/fobbob"
     },
-	{
+    {
       "predicate": {
-        "name": "garethb Statue \u26052"
+        "name": "/GabbyGamesMC Statue (\u00a77\u26051|\u26051)$/"
       },
-      "model": "item/garethb"
+      "model": "item/statues/iron/gabbygamesmc_slim"
     },
 	{
       "predicate": {
-        "name": "GeminiTay Statue \u26054"
+        "name": "/garethb Statue (\u00a76\u26052|\u26052)$/"
       },
-      "model": "item/slim/geminitay"
+      "model": "item/statues/gold/garethb"
     },
 	{
       "predicate": {
-        "name": "Glaive_ Statue \u26053"
+        "name": "/GeminiTay Statue (\u00a78\u26054|\u26054)$/"
       },
-      "model": "item/glaive_"
+      "model": "item/statues/netherite/geminitay_slim"
     },
 	{
       "predicate": {
-        "name": "Gooman24 Statue \u26053"
+        "name": "/Glaive_ Statue (\u00a7b\u26053|\u26053)$/"
       },
-      "model": "item/gooman24"
+      "model": "item/statues/diamond/glaive_"
     },
 	{
       "predicate": {
-        "name": "Hallsworth_ Statue \u26052"
+        "name": "/Gooman24 Statue (\u00a7b\u26053|\u26053)$/"
       },
-      "model": "item/hallsworth_"
+      "model": "item/statues/diamond/gooman24"
+    },
+    {
+      "predicate": {
+        "name": "/HafStac Statue (\u00a77\u26051|\u26051)$/"
+      },
+      "model": "item/statues/iron/hafstac_slim"
     },
 	{
       "predicate": {
-        "name": "impulseSV Statue \u26054"
+        "name": "/Hallsworth_ Statue (\u00a76\u26052|\u26052)$/"
       },
-      "model": "item/impulsesv"
+      "model": "item/statues/gold/hallsworth_"
     },
 	{
       "predicate": {
-        "name": "impulseSV S9 Statue \u26054"
+        "name": "/impulseSV Statue (\u00a78\u26054|\u26054)$/"
       },
-      "model": "item/alts/impulsesv_1"
+      "model": "item/statues/netherite/impulsesv"
     },
 	{
       "predicate": {
-        "name": "impulseSantaV Statue \u26054"
+        "name": "/impulseSV Statue \\(S9\\) (\u00a78\u26054|\u26054)$/"
       },
-      "model": "item/alts/impulsesv_2"
+      "model": "item/statues/netherite/impulsesv_1"
     },
 	{
       "predicate": {
-        "name": "IXTHREE Statue \u26051"
+        "name": "/impulseSantaV Statue (\u00a78\u26054|\u26054)$/"
+      },
+      "model": "item/statues/netherite/impulsesv_2"
+    },
+	{
+      "predicate": {
+        "name": "/IXTHREE Statue (\u00a77\u26051|\u26051)$/"
       },
       "model": "item/statues/iron/ixthree"
     },
 	{
       "predicate": {
-        "name": "Jademelodyca Statue \u26053"
+        "name": "/Jademelodyca Statue (\u00a7b\u26053|\u26053)$/"
       },
-      "model": "item/jademelodyca"
+      "model": "item/statues/diamond/jademelodyca"
     },
 	{
       "predicate": {
-        "name": "JujiWasTaken Statue \u26053"
+        "name": "/JujiWasTaken Statue (\u00a7b\u26053|\u26053)$/"
       },
-      "model": "item/jujiwastaken"
+      "model": "item/statues/diamond/jujiwastaken"
     },
 	{
       "predicate": {
-        "name": "KatieTwinkle Statue \u26051"
+        "name": "/KatieTwinkle Statue (\u00a77\u26051|\u26051)$/"
       },
       "model": "item/statues/iron/katietwinkle"
     },
 	{
       "predicate": {
-        "name": "LegionSciFi Statue \u26053"
+        "name": "/Kep_of_Articema Statue (\u00a77\u26051|\u26051)$/"
       },
-      "model": "item/legionscifi"
+      "model": "item/statues/iron/kep_of_articema_slim"
     },
 	{
       "predicate": {
-        "name": "Lucianl869 Statue \u26051"
+        "name": "/Kep_of_Articema Statue (\u00a7a<Prototype>|<Prototype>)$/"
+      },
+      "model": "item/statues/other/kep_of_articema_proto_slim"
+    },
+    {
+      "predicate": {
+        "name": "/KingPotatoGames Statue (\u00a77\u26051|\u26051)$/"
+      },
+      "model": "item/statues/iron/kingpotatogames"
+    },
+	{
+      "predicate": {
+        "name": "/LegionSciFi Statue (\u00a7b\u26053|\u26053)$/"
+      },
+      "model": "item/statues/diamond/legionscifi"
+    },
+    {
+      "predicate": {
+        "name": "/lesleycake Statue (\u00a77\u26051|\u26051)$/"
+      },
+      "model": "item/statues/iron/lesleycake_slim"
+    },
+	{
+      "predicate": {
+        "name": "/Lucianl869 Statue (\u00a77\u26051|\u26051)$/"
       },
       "model": "item/statues/iron/lucianl869"
     },
 	{
       "predicate": {
-        "name": "LykunGG Statue \u26051"
+        "name": "/Lucianl869 Statue <Holiday> (\u00a76\u26052|\u26052)$/"
       },
-      "model": "item/slim/lykungg"
+      "model": "item/statues/gold/lucianl869_1"
     },
 	{
       "predicate": {
-        "name": "MaccaroniCheese Statue \u26053"
+        "name": "/Lulu_liv Statue (\u00a77\u26051|\u26051)$/"
       },
-      "model": "item/slim/maccaronicheese"
+      "model": "item/statues/iron/lulu_liv"
     },
 	{
       "predicate": {
-        "name": "MagpieTear Statue \u26053"
+        "name": "/LykunGG Statue (\u00a77\u26051|\u26051)$/"
       },
-      "model": "item/magpietear"
+      "model": "item/statues/iron/lykungg_slim"
     },
 	{
       "predicate": {
-        "name": "makeshiftdragon Statue \u26053"
+        "name": "/MaccaroniCheese Statue (\u00a7b\u26053|\u26053)$/"
+      },
+      "model": "item/statues/diamond/maccaronicheese_slim"
+    },
+	{
+      "predicate": {
+        "name": "/MagpieTear Statue (\u00a7b\u26053|\u26053)$/"
+      },
+      "model": "item/statues/diamond/magpietear"
+    },
+	{
+      "predicate": {
+        "name": "/makeshiftdragon Statue (\u00a77\u26051|\u26051)$/"
       },
       "model": "item/statues/iron/makeshiftdragon"
     },
 	{
       "predicate": {
-        "name": "MalefiKat Statue \u26051"
+        "name": "/MalefiKat Statue (\u00a77\u26051|\u26051)$/"
       },
       "model": "item/statues/iron/malefikat"
     },
 	{
       "predicate": {
-        "name": "Mathmic Statue \u26051"
+        "name": "/Mathmic Statue (\u00a77\u26051|\u26051)$/"
       },
       "model": "item/statues/iron/mathmic"
     },
 	{
       "predicate": {
-        "name": "MindinRuin Statue \u26052"
+        "name": "/Midnight2008149 Statue (\u00a77\u26051|\u26051)$/"
       },
-      "model": "item/mindinruin"
+      "model": "item/statues/iron/midnight2008149_slim"
     },
 	{
       "predicate": {
-        "name": "MinhGettsit Statue \u26052"
+        "name": "/MindinRuin Statue (\u00a76\u26052|\u26052)$/"
       },
-      "model": "item/minhgettsit"
+      "model": "item/statues/gold/mindinruin"
     },
 	{
       "predicate": {
-        "name": "MrSturm Statue \u26052"
+        "name": "/MinhGettsit Statue (\u00a76\u26052|\u26052)$/"
       },
-      "model": "item/mrsturm"
+      "model": "item/statues/gold/minhgettsit"
     },
 	{
       "predicate": {
-        "name": "Muclix Statue \u26051"
+        "name": "/MrSturm Statue (\u00a76\u26052|\u26052)$/"
+      },
+      "model": "item/statues/gold/mrsturm"
+    },
+	{
+      "predicate": {
+        "name": "/Muclix Statue (\u00a77\u26051|\u26051)$/"
       },
       "model": "item/statues/iron/muclix"
     },
 	{
       "predicate": {
-        "name": "Mystic_Bee Statue \u26052"
+        "name": "/Mystic_Bee Statue (\u00a76\u26052|\u26052)$/"
       },
-      "model": "item/mystic_bee"
+      "model": "item/statues/gold/mystic_bee"
     },
 	{
       "predicate": {
-        "name": "nascargirl4 Statue \u26051"
+        "name": "/nascargirl4 Statue (\u00a77\u26051|\u26051)$/"
       },
       "model": "item/statues/iron/nascargirl4"
     },
 	{
       "predicate": {
-        "name": "Nightshae Statue \u26051"
+        "name": "/NaomiKuro Statue (\u00a77\u26051|\u26051)$/"
+      },
+      "model": "item/statues/iron/naomikuro_slim"
+    },
+	{
+      "predicate": {
+        "name": "/Nightshae Statue (\u00a77\u26051|\u26051)$/"
       },
       "model": "item/statues/iron/nightshae"
     },
 	{
       "predicate": {
-        "name": "NotSoRandom Statue \u26052"
+        "name": "/NotSoRandom Statue (\u00a76\u26052|\u26052)$/"
       },
-      "model": "item/notsorandom"
+      "model": "item/statues/gold/notsorandom"
     },
 	{
       "predicate": {
-        "name": "Nyte_Twait Statue \u26051"
+        "name": "/Nyte_Twait Statue (\u00a77\u26051|\u26051)$/"
       },
       "model": "item/statues/iron/nyte_twait"
     },
 	{
       "predicate": {
-        "name": "OhhTheHuManatee Statue \u26053"
+        "name": "/OhhTheHuManatee Statue (\u00a7b\u26053|\u26053)$/"
       },
-      "model": "item/ohhthehumanatee"
+      "model": "item/statues/diamond/ohhthehumanatee"
     },
 	{
       "predicate": {
-        "name": "PearlescentMoon Statue \u26054"
+        "name": "/PearlescentMoon Statue (\u00a78\u26054|\u26054)$/"
       },
-      "model": "item/slim/pearlescentmoon"
+      "model": "item/statues/netherite/pearlescentmoon_slim"
     },
 	{
       "predicate": {
-        "name": "Ozphilo Statue \u26053"
+        "name": "/Ozphilo Statue (\u00a7b\u26053|\u26053)$/"
       },
-      "model": "item/ozphilo"
+      "model": "item/statues/diamond/ozphilo"
     },
 	{
       "predicate": {
-        "name": "PixilPrincess Statue \u26051"
+        "name": "/PixilPrincess Statue (\u00a77\u26051|\u26051)$/"
       },
       "model": "item/statues/iron/pixilprincess"
     },
 	{
       "predicate": {
-        "name": "QueenHera Statue \u26051"
+        "name": "/PrincessRomany Statue (\u00a77\u26051|\u26051)$/"
+      },
+      "model": "item/statues/iron/princessromany_slim"
+    },
+	{
+      "predicate": {
+        "name": "/QueenHera Statue (\u00a77\u26051|\u26051)$/"
       },
       "model": "item/statues/iron/queenhera"
     },
 	{
       "predicate": {
-        "name": "RaeRayKC Statue \u26051"
+        "name": "/RaeRayKC Statue (\u00a77\u26051|\u26051)$/"
       },
       "model": "item/statues/iron/raeraykc"
     },
 	{
       "predicate": {
-        "name": "razzlemcfrazzle Statue \u26052"
+        "name": "/razzlemcfrazzle Statue (\u00a76\u26052|\u26052)$/"
       },
-      "model": "item/razzlemcfrazzle"
+      "model": "item/statues/gold/razzlemcfrazzle"
+    },
+    {
+      "predicate": {
+        "name": "/redneck1185 Statue (\u00a77\u26051|\u26051)$/"
+      },
+      "model": "item/statues/iron/redneck1185"
+    },
+    {
+      "predicate": {
+        "name": "/Rhainalane223 Statue (\u00a77\u26051|\u26051)$/"
+      },
+      "model": "item/statues/iron/rhainalane223_slim"
     },
 	{
       "predicate": {
-        "name": "RillSoji Statue \u26053"
+        "name": "/RillSoji Statue (\u00a7b\u26053|\u26053)$/"
       },
-      "model": "item/rillsoji"
+      "model": "item/statues/diamond/rillsoji"
     },
 	{
       "predicate": {
-        "name": "RiverKent Statue \u26051"
+        "name": "/RiverKent Statue (\u00a77\u26051|\u26051)$/"
       },
       "model": "item/statues/iron/riverkent"
     },
 	{
       "predicate": {
-        "name": "RoyalRenegade Statue \u26051"
+        "name": "/RoyalRenegade Statue (\u00a77\u26051|\u26051)$/"
       },
       "model": "item/statues/iron/royalrenegade"
     },
 	{
       "predicate": {
-        "name": "SadieLike Statue \u26051"
+        "name": "/SadieLike Statue (\u00a77\u26051|\u26051)$/"
       },
-      "model": "item/slim/sadielike"
+      "model": "item/statues/iron/sadielike_slim"
     },
 	{
       "predicate": {
-        "name": "SammyTerry241 Statue \u26052"
+        "name": "/SammyTerry241 Statue (\u00a76\u26052|\u26052)$/"
       },
-      "model": "item/sammyterry241"
+      "model": "item/statues/gold/sammyterry241"
     },
 	{
       "predicate": {
-        "name": "Siral_Star Statue \u26051"
+        "name": "/Siral_Star Statue (\u00a77\u26051|\u26051)$/"
       },
       "model": "item/statues/iron/siral_star"
     },
 	{
       "predicate": {
-        "name": "Skizzleman Statue \u26054"
+        "name": "/Skizzleman Statue (\u00a78\u26054|\u26054)$/"
       },
-      "model": "item/skizzleman"
+      "model": "item/statues/netherite/skizzleman"
+    },
+    {
+      "predicate": {
+        "name": "/SlicerFish Statue (\u00a77\u26051|\u26051)$/"
+      },
+      "model": "item/statues/iron/slicerfish"
     },
 	{
       "predicate": {
-        "name": "Southyman Statue \u26052"
+        "name": "/Smajor1995 Statue (\u00a78\u26054|\u26054)$/"
       },
-      "model": "item/southyman"
+      "model": "item/statues/netherite/smajor1995"
     },
 	{
       "predicate": {
-        "name": "Squeeks_Twait Statue \u26051"
+        "name": "/Southyman Statue (\u00a76\u26052|\u26052)$/"
+      },
+      "model": "item/statues/gold/southyman"
+    },
+	{
+      "predicate": {
+        "name": "/Squeeks_Twait Statue (\u00a77\u26051|\u26051)$/"
       },
       "model": "item/statues/iron/squeeks_twait"
     },
 	{
       "predicate": {
-        "name": "Tango Statue \u26054"
+        "name": "/Tango Statue (\u00a78\u26054|\u26054)$/"
       },
-      "model": "item/tango"
+      "model": "item/statues/netherite/tango"
     },
 	{
       "predicate": {
-        "name": "Tango S9 Statue \u26054"
+        "name": "/Tango Statue \\(S9\\) (\u00a78\u26054|\u26054)$/"
       },
-      "model": "item/alts/tango_1"
+      "model": "item/statues/netherite/tango_1"
     },
 	{
       "predicate": {
-        "name": "TheCarolinaAsh Statue \u26051"
+        "name": "/TheCarolinaAsh Statue (\u00a77\u26051|\u26051)$/"
       },
       "model": "item/statues/iron/thecarolinaash"
     },
 	{
       "predicate": {
-        "name": "TheGingerHawk Statue \u26051"
+        "name": "/TheGingerHawk Statue (\u00a77\u26051|\u26051)$/"
       },
       "model": "item/statues/iron/thegingerhawk"
     },
 	{
       "predicate": {
-        "name": "thelilredpanda Statue \u26051"
+        "name": "/The_Jedi_Gamer Statue (\u00a77\u26051|\u26051)$/"
+      },
+      "model": "item/statues/iron/the_jedi_gamer"
+    },
+	{
+      "predicate": {
+        "name": "/thelilredpanda Statue (\u00a77\u26051|\u26051)$/"
       },
       "model": "item/statues/iron/thelilredpanda"
     },
 	{
       "predicate": {
-        "name": "TiltControlsABK Statue \u26052"
+        "name": "/TiltControlsABK Statue (\u00a76\u26052|\u26052)$/"
       },
-      "model": "item/tiltcontrolsabk"
+      "model": "item/statues/gold/tiltcontrolsabk"
     },
 	{
       "predicate": {
-        "name": "Tuner86 Statue \u26052"
+        "name": "/Tuner86 Statue (\u00a76\u26052|\u26052)$/"
       },
-      "model": "item/tuner86"
+      "model": "item/statues/gold/tuner86"
     },
 	{
       "predicate": {
-        "name": "VisualFan327 Statue \u26051"
+        "name": "/VisualFan327 Statue (\u00a77\u26051|\u26051)$/"
       },
       "model": "item/statues/iron/visualfan327"
     },
 	{
       "predicate": {
-        "name": "VonWolfiestein Statue \u26051"
+        "name": "/VonWolfiestein Statue (\u00a77\u26051|\u26051)$/"
       },
       "model": "item/statues/iron/vonwolfiestein"
     },
 	{
       "predicate": {
-        "name": "Wandering922 Statue \u26052"
+        "name": "/Wandering922 Statue (\u00a76\u26052|\u26052)$/"
       },
-      "model": "item/wandering922"
+      "model": "item/statues/gold/wandering922"
     },
 	{
       "predicate": {
-        "name": "XxBustyxX Statue \u26051"
+        "name": "/WatchersArcade Statue (\u00a77\u26051|\u26051)$/"
+      },
+      "model": "item/statues/iron/watchersarcade"
+    },
+	{
+      "predicate": {
+        "name": "/WolfBaneW Statue (\u00a77\u26051|\u26051)$/"
+      },
+      "model": "item/statues/iron/wolfbanew"
+    },
+	{
+      "predicate": {
+        "name": "/XxBustyxX Statue (\u00a77\u26051|\u26051)$/"
       },
       "model": "item/statues/iron/xxbustyxx"
     }

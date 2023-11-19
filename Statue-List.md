@@ -1,39 +1,51 @@
 # STATUE LIST
 
-## Purple Tier
-----
-- DJChaos42
-----
 ## Iron Tier
 ----
 - Aankhara
 - AccursedBinkie
+- AvianFalls
 - CallunaBytes
+- clasik66
+- EmmyLuvsBats
 - FobBob
+- GabbyGamesMC
 - IXTHREE
+- HafStac
 - KatieTwinkle
+- KingPotatoGames
+- lesleycake
 - Lucianl869
 - LykunGG
 - makeshiftdragon
 - MalefiKat
 - Mathmic
+- Midnight2008149
 - Muclix
+- NaomiKuro
 - nascargirl4
 - Nightshae
 - Nyte_Twait
 - PixilPrincess
+- PrincessRomany
 - QueenHera
 - RaeRayKC
+- redneck1185
+- Rhainalane223
 - RiverKent
 - RoyalRenegade
 - SadieLike
 - Siral_Star
+- SlicerFish
 - Squeeks_Twait
 - TheCarolinaAsh
 - TheGingerHawk
+- The_Jedi_Gamer
 - thelilredpanda
 - VisualFan327
 - VonWolfiestein
+- WatchersArcade
+- WolfBaneW
 - XxBustyxX
 ----
 ## Gold Tier
@@ -42,9 +54,11 @@
 - Annovellius
 - AvidYt
 - Bellanne
+- Bug_BBQ
 - Ember_Vixa
 - garethb
 - Hallsworth_
+- Lucianl869 (Holiday)
 - MindinRuin
 - MinhGettsit
 - MrSturm
@@ -77,7 +91,14 @@
 ----
 - GeminiTay
 - impulseSV
+- impulseSantaV (Holiday)
 - PearlescentMoon
 - Skizzleman
 - Tango
+- Tango <S9> (Holiday)
+----
+## Other
+----
+- DJChaos42
+- Kep_of_Articema (Prototype)
 ----
