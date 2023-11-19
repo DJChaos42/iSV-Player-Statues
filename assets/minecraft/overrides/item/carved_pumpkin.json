@@ -206,7 +206,7 @@
     },
 	{
       "predicate": {
-        "name": "/Kep_of_Articema Statue (\u00a7a<Prototype>|<Prototype>)$/"
+        "name": "/Kep_of_Articema Statue (\u00a7a\\(Prototype\\)|\\(Prototype\\))$/"
       },
       "model": "item/statues/other/kep_of_articema_proto_slim"
     },
