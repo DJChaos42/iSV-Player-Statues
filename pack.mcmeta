@@ -3,7 +3,7 @@
     "pack_format": 15,
     "supported_formats": [
       15,
-      18
+      21
     ],
     "description": [
       {
@@ -19,7 +19,7 @@
         "color": "dark_gray"
       },
       {
-        "text": "v1.0.5",
+        "text": "v1.0.6",
         "color": "yellow"
       }
     ]
