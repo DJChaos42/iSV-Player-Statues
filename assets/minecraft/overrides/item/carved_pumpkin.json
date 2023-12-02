@@ -236,7 +236,7 @@
     },
 	{
       "predicate": {
-        "name": "/Lucianl869 Statue <Holiday> (\u00a76\u26052|\u26052)$/"
+        "name": "/Lucianl869 Statue \\(Holiday\\) (\u00a76\u26052|\u26052)$/"
       },
       "model": "item/statues/gold/lucianl869_1"
     },

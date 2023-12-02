@@ -1,48 +1,35 @@
-# STATUE LIST
+# IN THE CURRENT POOL
 
 ## Iron Tier
 ----
 - Aankhara
-- AccursedBinkie
 - AvianFalls
 - CallunaBytes
 - clasik66
 - EmmyLuvsBats
 - FobBob
 - GabbyGamesMC
-- IXTHREE
 - HafStac
 - KatieTwinkle
 - KingPotatoGames
 - lesleycake
-- Lucianl869
+- Lulu_liv
 - LykunGG
 - makeshiftdragon
-- MalefiKat
-- Mathmic
 - Midnight2008149
-- Muclix
 - NaomiKuro
-- nascargirl4
-- Nightshae
-- Nyte_Twait
-- PixilPrincess
 - PrincessRomany
 - QueenHera
-- RaeRayKC
 - redneck1185
 - Rhainalane223
 - RiverKent
-- RoyalRenegade
 - SadieLike
 - Siral_Star
 - SlicerFish
-- Squeeks_Twait
 - TheCarolinaAsh
 - TheGingerHawk
-- The_Jedi_Gamer
 - thelilredpanda
-- VisualFan327
+- The_Jedi_Gamer
 - VonWolfiestein
 - WatchersArcade
 - WolfBaneW
@@ -50,52 +37,82 @@
 ----
 ## Gold Tier
 ----
-- Aedan_Flynn
 - Annovellius
-- AvidYt
-- Bellanne
 - Bug_BBQ
-- Ember_Vixa
 - garethb
 - Hallsworth_
 - Lucianl869 (Holiday)
 - MindinRuin
 - MinhGettsit
-- MrSturm
-- Mystic_Bee
-- NotSoRandom
-- razzlemcfrazzle
-- SammyTerry241
-- Southyman
 - TiltControlsABK
 - Tuner86
-- Wandering922
 ----
 ## Diamond Tier
 ----
 - Ashleycloud
 - Featherstone777
 - FireWolf256
-- Glaive_
-- Gooman24
 - Jademelodyca
 - JujiWasTaken
 - LegionSciFi
-- MaccaroniCheese
-- MagpieTear
-- OhhTheHuManatee
 - Ozphilo
-- RillSoji
 ----
 ## Netherite Tier
 ----
 - GeminiTay
-- impulseSV
 - impulseSantaV (Holiday)
-- PearlescentMoon
 - Skizzleman
+- Smajor1995
+- Tango (S9) (Holiday)
+----
+
+# NOT IN THE CURRENT POOL
+
+## Iron Tier
+----
+- AccursedBinkie
+- IXTHREE
+- Lucianl869
+- MalefiKat
+- Mathmic
+- Muclix
+- nascargirl4
+- Nightshae
+- Nyte_Twait
+- PixilPrincess
+- RaeRayKC
+- RoyalRenegade
+- Squeeks_Twait
+- VisualFan327
+----
+## Gold Tier
+----
+- Aedan_Flynn
+- AvidYt
+- Bellanne
+- Ember_Vixa
+- MrSturm
+- Mystic_Bee
+- NotSoRandom
+- razzlemcfrazzle
+- SammyTerry241
+- Southyman
+- Wandering922
+----
+## Diamond Tier
+----
+- Glaive_
+- Gooman24
+- MaccaroniCheese
+- MagpieTear
+- OhhTheHuManatee
+- RillSoji
+----
+## Netherite Tier
+----
+- impulseSV
+- PearlescentMoon
 - Tango
-- Tango <S9> (Holiday)
 ----
 ## Other
 ----
