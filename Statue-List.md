@@ -32,7 +32,7 @@
 - The_Jedi_Gamer
 - VonWolfiestein
 - WatchersArcade
-- WolfBaneW
+- ~~WolfBaneW~~ (Looks like they never actually made it into the shop. I'll be fixing that soon.)
 - XxBustyxX
 ----
 ## Gold Tier
